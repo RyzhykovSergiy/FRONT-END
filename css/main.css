@@ -482,14 +482,7 @@ a {
 @media screen and (min-width: 480px) and (max-width: 767px) {
   .top__text {
     padding: 10px 15px;
-    margin: 0 20px; }
-  .menu__body {
-    width: 5em;
-    height: 5em;
-    padding: 3.5em 0 0 0; }
-  .menu--toggle__trigger, .menu--toggle__burger {
-    top: 1em;
-    right: 1em; } }
+    margin: 0 20px; } }
 
 @media screen and (min-width: 320px) and (max-width: 479px) {
   .top__text {
@@ -501,14 +494,7 @@ a {
     margin-right: 10px; }
   .top__description {
     margin: 0;
-    font-size: 1.5em; }
-  .menu__body {
-    width: 4em;
-    height: 4em;
-    padding: 4em 0 0 0; }
-  .menu--toggle__trigger, .menu--toggle__burger {
-    top: 0.7em;
-    right: 0.7em; } }
+    font-size: 1.5em; } }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .animated {
